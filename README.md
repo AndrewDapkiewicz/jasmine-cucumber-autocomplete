@@ -24,8 +24,8 @@ At this point, this is not a part of sublimes package manager, so you will need 
 
 
 ## Roadmap
-* Add tabbing for `(.*)`
-* Make sure plugin works
+* ~~Add tabbing for `(.*)`~~
+* Make sure plugin works (tests)
 * ...
 * No profit
 
